@@ -1,0 +1,4 @@
+[core]
+    remote = dku_tshirts
+['remote "dku_tshirts"']
+    url = azure://dvc/data2/DKU_TSHIRTS
